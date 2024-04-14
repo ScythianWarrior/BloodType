@@ -1,0 +1,13 @@
+W:\IT\Projects\CSharp\WinForms\BloodType\bin\Debug\BloodType.exe.config
+W:\IT\Projects\CSharp\WinForms\BloodType\bin\Debug\BloodType.exe
+W:\IT\Projects\CSharp\WinForms\BloodType\bin\Debug\BloodType.pdb
+W:\IT\Projects\CSharp\WinForms\BloodType\obj\Debug\BloodType.csproj.AssemblyReference.cache
+W:\IT\Projects\CSharp\WinForms\BloodType\obj\Debug\BloodType.Form1.resources
+W:\IT\Projects\CSharp\WinForms\BloodType\obj\Debug\BloodType.Form2.resources
+W:\IT\Projects\CSharp\WinForms\BloodType\obj\Debug\BloodType.Properties.Resources.resources
+W:\IT\Projects\CSharp\WinForms\BloodType\obj\Debug\BloodType.csproj.GenerateResource.cache
+W:\IT\Projects\CSharp\WinForms\BloodType\obj\Debug\BloodType.csproj.CoreCompileInputs.cache
+W:\IT\Projects\CSharp\WinForms\BloodType\obj\Debug\BloodType.exe
+W:\IT\Projects\CSharp\WinForms\BloodType\obj\Debug\BloodType.pdb
+W:\IT\Projects\CSharp\WinForms\BloodType\obj\Debug\BloodType.Form3.resources
+W:\IT\Projects\CSharp\WinForms\BloodType\obj\Debug\BloodType.Form4.resources
